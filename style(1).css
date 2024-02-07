@@ -1,0 +1,15 @@
+#h1one{
+    margin-top: -1px;
+    width:100%;
+    font-size: 20px;
+}
+#back{
+    float: right;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-color: lightslategray;
+    border-style: groove;
+    border-width: 5px;
+    border-radius: 7px;
+}

@@ -1,0 +1,42 @@
+body{
+    background-size: cover;
+}
+.botns{
+    font-weight: bold;
+    width:20%; 
+    border-radius: 10px;
+    font-size: large;
+    border-color: black;
+    border-style: groove;
+    border-width: 7px;
+}
+#bedroom{
+    color:darkgoldenrod;
+    background-color:rgba(239, 255, 22, 0.884) ;
+}
+#television{
+    color:green;
+    background-color:rgba(22, 255, 80, 0.884);
+}
+#desk{
+    color:rgb(2, 107, 107);
+    background-color:rgba(22, 255, 205, 0.884) ;
+}
+#bottles{
+    color:rgb(60, 2, 107);
+    background-color:rgba(170, 22, 255, 0.767) ;
+}
+#fruitbasket{
+    color:rgb(87, 2, 2);
+    background-color:rgba(255, 22, 22, 0.767) ;
+}
+#footer{
+    width:100%;
+    position: fixed;
+    bottom: 0;;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: aliceblue;
+    line-height: 2;
+}
